@@ -1,6 +1,6 @@
 numpy==2.3.0
 pandas==2.3.0
-rdkit==2025.3.2
+rdkit-pypi==2025.3.2
 Requests==2.32.4
 scikit_learn==1.7.0
 streamlit==1.45.1
