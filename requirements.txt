@@ -1,5 +1,5 @@
 streamlit==1.45.1
-rdkit-pypi>=2023.3.1b
+rdkit-pypi>=2023.3.1b1
 scikit-learn==1.6.1
 pandas==2.2.3
 requests==2.32.3
