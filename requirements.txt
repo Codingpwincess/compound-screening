@@ -1,4 +1,4 @@
-python==3.13.3
+python==3.11
 streamlit==1.45.1
 rdkit-pypi>=2023.3.1
 scikit-learn==1.6.1
